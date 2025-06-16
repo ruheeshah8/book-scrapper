@@ -4,6 +4,13 @@
 # git config --global user.name "Ruhee shah"
 # git config --global user.email "ruheeshah8gamil.com"
 
+# git init => initialize git
+# git status => if you want to check what are the change
+# git diff => if you want to check what are the changes
+# git add .
+# git commit -m "your message"
+# copy paste git code from github
+
 import requests 
 from bs4 import BeautifulSoup
 import json
